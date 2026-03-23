@@ -1,10 +1,9 @@
 {
   "name": "chat-app-backend",
   "version": "1.0.0",
-  "description": "Simple chat backend on Vercel",
-  "main": "api/chat.js",
   "scripts": {
-    "start": "node api/chat.js"
+    "start": "node api/back1.js"
+    "start": "node api/back2.js"
   },
   "author": "",
   "license": "ISC",
